@@ -1,0 +1,572 @@
+[
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572724451466,
+            "changeTime": 1572724451466,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572724451466,
+            "changeTime": 1572724451466,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297822,
+            "changeTime": 1572734297822,
+            "contentHash": "cb04abe28c23316ad7601ad826abf81f419f372b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297812,
+            "changeTime": 1572734297812,
+            "contentHash": "a9eb320b0468cb6cec902af0a687b5d274642b76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\applications\\PPR_ProjectPortfolioReporting.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\applications\\PPR_ProjectPortfolioReporting.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1751,
+            "modifiedTime": 1572734297812,
+            "changeTime": 1572734297812,
+            "contentHash": "e8e1a695c66ed84adb3a931ccd154bbff3d62dd3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572724451467,
+            "changeTime": 1572724451467,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297825,
+            "changeTime": 1572734297825,
+            "contentHash": "453b25baade2bc9dd9c60e90d7ad3ab826b2162f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\contentassets\\Canada.asset",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\contentassets\\Canada.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 13335,
+            "modifiedTime": 1572734297826,
+            "changeTime": 1572734297826,
+            "contentHash": "153cd36a05d101acb95986140b59f32cf384ecda",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\contentassets\\Canada.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\contentassets\\Canada.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 525,
+            "modifiedTime": 1572734297823,
+            "changeTime": 1572734297823,
+            "contentHash": "9832a5cfff1896bac6959be3c08ac78baacd481d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297803,
+            "changeTime": 1572734297803,
+            "contentHash": "b80d3aa8819aba898f228a726729117275ef0341",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\flexipages\\Project_Portfolio_Reporting_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\flexipages\\Project_Portfolio_Reporting_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 640,
+            "modifiedTime": 1572734297803,
+            "changeTime": 1572734297803,
+            "contentHash": "5d62c347f5a6db3d0dccfb6e69862c5c70396a13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297801,
+            "changeTime": 1572734297801,
+            "contentHash": "c71c69d422c480e8aca8067b7cd056544fee399e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts\\PPR_Application__c-Application Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts\\PPR_Application__c-Application Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2744,
+            "modifiedTime": 1572734297795,
+            "changeTime": 1572734297795,
+            "contentHash": "f2624576b584df23205f02afec2db5800faf2779",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts\\PPR_GCdocs__c-GCdocs Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts\\PPR_GCdocs__c-GCdocs Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2744,
+            "modifiedTime": 1572734297798,
+            "changeTime": 1572734297798,
+            "contentHash": "f2624576b584df23205f02afec2db5800faf2779",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts\\PPR_Portfolio__c-Portfolio Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\layouts\\PPR_Portfolio__c-Portfolio Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2744,
+            "modifiedTime": 1572734297801,
+            "changeTime": 1572734297801,
+            "contentHash": "f2624576b584df23205f02afec2db5800faf2779",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572733974948,
+            "changeTime": 1572733974948,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297789,
+            "changeTime": 1572734297789,
+            "contentHash": "efe53666b00b32768d77652baa68db14d8282a4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297781,
+            "changeTime": 1572734297781,
+            "contentHash": "df8421313903f9c8c5d2b0adefb7848d6f55401e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297782,
+            "changeTime": 1572734297782,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1572734297782,
+            "changeTime": 1572734297782,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c\\PPR_Application__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Application__c\\PPR_Application__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2210,
+            "modifiedTime": 1572734297781,
+            "changeTime": 1572734297781,
+            "contentHash": "dd7d7985b17d5af08f10495f0dddf47b67b2f7db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297773,
+            "changeTime": 1572734297773,
+            "contentHash": "3b65e05587878a78cd605a43587aec63a4cf432a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297773,
+            "changeTime": 1572734297773,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1572734297773,
+            "changeTime": 1572734297773,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c\\PPR_GCdocs__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_GCdocs__c\\PPR_GCdocs__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2252,
+            "modifiedTime": 1572734297772,
+            "changeTime": 1572734297772,
+            "contentHash": "7d7dc75f52b0988d66445f4a0c2d5b87b08dcde5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297791,
+            "changeTime": 1572734297791,
+            "contentHash": "caa4b21a1f1a3f3abdcb6ad942727945fe206131",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297791,
+            "changeTime": 1572734297791,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1572734297792,
+            "changeTime": 1572734297792,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c\\PPR_Portfolio__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\objects\\PPR_Portfolio__c\\PPR_Portfolio__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2104,
+            "modifiedTime": 1572734297791,
+            "changeTime": 1572734297791,
+            "contentHash": "937560a1cfe17037b99a7508628202714ff899b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297820,
+            "changeTime": 1572734297820,
+            "contentHash": "0c25daae8201d5dde6cd56174f52700dade3cd0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\permissionsets\\PPR_PermissionSet.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\permissionsets\\PPR_PermissionSet.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 550,
+            "modifiedTime": 1572734297821,
+            "changeTime": 1572734297821,
+            "contentHash": "4457db73b674e7cce62252589995ddfe402071d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297818,
+            "changeTime": 1572734297818,
+            "contentHash": "feb3810b0cddf5e36c8fe5917d6c7f5a6484f541",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\profiles\\PPR User.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\profiles\\PPR User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7169,
+            "modifiedTime": 1572734297818,
+            "changeTime": 1572734297818,
+            "contentHash": "6cab5887a3f356662977491559f238e63dfa39d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572734297809,
+            "changeTime": 1572734297809,
+            "contentHash": "98edac6b4b45650550728b2f0bb7b5027ba85b20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs\\PPR_Application__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs\\PPR_Application__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1572734297805,
+            "changeTime": 1572734297805,
+            "contentHash": "9b139f7ffd1bf10acd2b1e0bde0bb2e89d82b4d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs\\PPR_GCdocs__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs\\PPR_GCdocs__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1572734297807,
+            "changeTime": 1572734297807,
+            "contentHash": "69912039ef5c0feb96853dc7b54eb8684c066c13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs\\PPR_Portfolio__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch\\force-app\\main\\default\\tabs\\PPR_Portfolio__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1572734297809,
+            "changeTime": 1572734297809,
+            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ADFROOT\\ppr\\pprScratch",
+        {
+            "state": "n",
+            "sourcePath": "C:\\ADFROOT\\ppr\\pprScratch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1572733970043,
+            "changeTime": 1572733970043,
+            "contentHash": "214305ccc40b1bc526250eb144ac0128edd9a527",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

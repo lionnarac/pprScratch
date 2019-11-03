@@ -1,5 +1,4 @@
-# pprScratch
-Project Portfolio Reporting SFDX files
+# ppr
 Project Start Date: Nov 4, 2019
 Author: Yichao Zheng
 
