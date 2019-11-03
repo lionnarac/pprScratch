@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>PPR_ProjectPortfolioReporting</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <description>Use a permission set to provide access, in addition to PPR User profile. This can be used for temporary access.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>PPR Permission Set</label>
+    <license>Salesforce</license>
+</PermissionSet>
